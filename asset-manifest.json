@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-BookApp/static/css/main.bc1bf450.chunk.css",
+    "main.js": "/React-BookApp/static/js/main.510a208b.chunk.js",
+    "main.js.map": "/React-BookApp/static/js/main.510a208b.chunk.js.map",
+    "runtime-main.js": "/React-BookApp/static/js/runtime-main.80c2159a.js",
+    "runtime-main.js.map": "/React-BookApp/static/js/runtime-main.80c2159a.js.map",
+    "static/js/2.c41defce.chunk.js": "/React-BookApp/static/js/2.c41defce.chunk.js",
+    "static/js/2.c41defce.chunk.js.map": "/React-BookApp/static/js/2.c41defce.chunk.js.map",
+    "index.html": "/React-BookApp/index.html",
+    "static/css/main.bc1bf450.chunk.css.map": "/React-BookApp/static/css/main.bc1bf450.chunk.css.map",
+    "static/js/2.c41defce.chunk.js.LICENSE.txt": "/React-BookApp/static/js/2.c41defce.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-BookApp/static/media/arrow-drop-down.4378492a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80c2159a.js",
+    "static/js/2.c41defce.chunk.js",
+    "static/css/main.bc1bf450.chunk.css",
+    "static/js/main.510a208b.chunk.js"
+  ]
+}
