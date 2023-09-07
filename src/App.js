@@ -28,7 +28,7 @@ function App(){
   console.log(book,shelf);
   const newBookList = bookItem?.filter( (b)=> book.id === b.id);
   console.log(newBookList)
-  setBookItem((old) => [...newBookList]);
+  setBookItem((old) => [...newBookList , book]);
   console.log(setBookItem);
 
  };
